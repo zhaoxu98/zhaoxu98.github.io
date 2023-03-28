@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xzbill.top/archives/1b971a72.html</loc>
-    
-    <lastmod>2023-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xzbill.top/archives/538d871e.html</loc>
     
     <lastmod>2023-03-19</lastmod>
@@ -183,14 +174,14 @@
   </url>
   
   <url>
-    <loc>https://xzbill.top/categories/Algorithm/</loc>
+    <loc>https://xzbill.top/categories/PaperDaily/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xzbill.top/categories/PaperDaily/</loc>
+    <loc>https://xzbill.top/categories/Algorithm/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
