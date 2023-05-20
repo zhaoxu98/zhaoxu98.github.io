@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xzbill.top/archives/be7bf672.html</loc>
+    
+    <lastmod>2023-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xzbill.top/archives/9d732bf3.html</loc>
     
     <lastmod>2023-05-13</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://xzbill.top/archives/538d871e.html</loc>
     
     <lastmod>2023-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xzbill.top/archives/be7bf672.html</loc>
-    
-    <lastmod>2023-03-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,7 +157,7 @@
 
   <url>
     <loc>https://xzbill.top/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,21 +165,21 @@
   
   <url>
     <loc>https://xzbill.top/tags/recommender-systems/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xzbill.top/tags/graph-neural-networks/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xzbill.top/tags/contrastive-learning/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -188,28 +188,28 @@
   
   <url>
     <loc>https://xzbill.top/categories/WeeklyReport/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xzbill.top/categories/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xzbill.top/categories/PaperDaily/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xzbill.top/categories/Algorithm/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
