@@ -1,13 +1,8 @@
 https://xzbill.top/archives/a709254f.html
-https://xzbill.top/archives/8825c5e7.html
-https://xzbill.top/archives/7961d440.html
 https://xzbill.top/archives/66a272a0.html
 https://xzbill.top/archives/e5c82de0.html
-https://xzbill.top/archives/4a6cb189.html
 https://xzbill.top/archives/cff25113.html
-https://xzbill.top/archives/f925b4f5.html
 https://xzbill.top/about/index.html
-https://xzbill.top/archives/b4041fe7.html
 https://xzbill.top/archives/27703b63.html
 https://xzbill.top/archives/909b4273.html
 https://xzbill.top/archives/85b37792.html
@@ -36,8 +31,8 @@ https://xzbill.top/tags/recommender-systems/
 https://xzbill.top/tags/graph-neural-networks/
 https://xzbill.top/tags/contrastive-learning/
 https://xzbill.top/categories/WeeklyReport/
-https://xzbill.top/categories/MonthlyReport/
 https://xzbill.top/categories/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/
-https://xzbill.top/categories/Algorithm/
+https://xzbill.top/categories/MonthlyReport/
 https://xzbill.top/categories/%E7%AB%8B%E5%BF%97/
 https://xzbill.top/categories/PaperDaily/
+https://xzbill.top/categories/Algorithm/
