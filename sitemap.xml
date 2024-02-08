@@ -325,13 +325,6 @@
   </url>
   
   <url>
-    <loc>https://xzbill.top/categories/Algorithm/</loc>
-    <lastmod>2024-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xzbill.top/categories/%E7%AB%8B%E5%BF%97/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -340,6 +333,13 @@
   
   <url>
     <loc>https://xzbill.top/categories/PaperDaily/</loc>
+    <lastmod>2024-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xzbill.top/categories/Algorithm/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
