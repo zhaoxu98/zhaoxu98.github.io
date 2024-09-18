@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xzbill.top/archives/9d656130.html</loc>
+    
+    <lastmod>2024-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xzbill.top/about/index.html</loc>
     
     <lastmod>2024-07-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xzbill.top/archives/745e30b4.html</loc>
+    
+    <lastmod>2024-07-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -20,9 +38,45 @@
   </url>
   
   <url>
+    <loc>https://xzbill.top/archives/f5ff140e.html</loc>
+    
+    <lastmod>2024-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xzbill.top/archives/b3ec50de.html</loc>
+    
+    <lastmod>2024-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xzbill.top/archives/a709254f.html</loc>
+    
+    <lastmod>2023-12-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xzbill.top/tags/index.html</loc>
     
     <lastmod>2023-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xzbill.top/archives/4a17b156.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +94,7 @@
 
   <url>
     <loc>https://xzbill.top/</loc>
-    <lastmod>2024-07-21</lastmod>
+    <lastmod>2024-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,21 +102,21 @@
   
   <url>
     <loc>https://xzbill.top/tags/WeeklyReport/</loc>
-    <lastmod>2024-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xzbill.top/tags/MonthlyReport/</loc>
-    <lastmod>2024-07-21</lastmod>
+    <lastmod>2024-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xzbill.top/tags/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</loc>
-    <lastmod>2024-07-21</lastmod>
+    <lastmod>2024-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xzbill.top/tags/MonthlyReport/</loc>
+    <lastmod>2024-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -71,7 +125,21 @@
   
   <url>
     <loc>https://xzbill.top/categories/WeeklyReport/</loc>
-    <lastmod>2024-07-21</lastmod>
+    <lastmod>2024-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xzbill.top/categories/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</loc>
+    <lastmod>2024-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xzbill.top/categories/MonthlyReport/</loc>
+    <lastmod>2024-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
